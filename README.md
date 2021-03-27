@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Scientist.
+I'm a Data Scientist.
 <!--
 **souravaich/souravaich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
